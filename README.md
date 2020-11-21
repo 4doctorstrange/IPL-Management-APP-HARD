@@ -5,7 +5,7 @@
 1- Put app.py file and templates folder in single folder say IPL<br>
 2- Open cmd/terminal in IPL and execute following commands<br>
 2.a- pip install flask flask-sqlalchemy  {installing flask}<br>
-2.b- python {To open python environmnet in IPL folder}br>
+2.b- python {To open python environmnet in IPL folder}<br>
 2.c- from app import db<br>
 2.d- db.create_all()<br>
 2.e- from app import Teams,Schedule,Points<br>
