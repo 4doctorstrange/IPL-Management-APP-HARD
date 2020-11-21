@@ -12,7 +12,7 @@
 2.f- exit()  {exiting python environment}<br>
 3- app.py  {running app}<br>
 4- Paste the local host link in your browser.<br>
-<h3>NOTE- Admin's Key="ipl@2020"</h3><br>
+<h3>NOTE- Admin's Key="ipl@2020"</h3>
 
 <h3>Pre-requisites:</h3>
 1-Python3 and executing program through cmd
