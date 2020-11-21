@@ -6,8 +6,8 @@
 2- Open cmd/terminal in IPL and execute following commands/
 2.a- pip install flask flask-sqlalchemy  {installing flask}/
 2.b- python {To open python environmnet in IPL folder}\
-2.c- from app import db
-2.d- db.create_all()
+2.c- from app import db_
+2.d- db.create_all()_
 2.e- from app import Teams,Schedule,Points
 2.f- exit()  {exiting python environment}
 3- app.py  {running app}
