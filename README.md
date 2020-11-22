@@ -14,7 +14,7 @@
       <li>exit()  {exiting python environment}</li>
     </ol>
   </li>
-  <li>python app.py  {running app}
+  <li> app.py {running app}
   <li>Paste the local host link in your browser.</li>
 <h3>NOTE- Admin's Key="ipl@2020"</h3>
 
