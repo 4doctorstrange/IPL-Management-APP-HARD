@@ -9,9 +9,8 @@
       <li>Open cmd/terminal in IPL and execute following commands</li>
       <li>pip install flask flask-sqlalchemy  {installing flask}</li>
       <li>python {To open python environmnet in IPL folder}</li>
-      <li>from app import db</li>
+      <li>from app import db,Teams,Schedule,Points</li>
       <li>db.create_all()</li>
-      <li>from app import Teams,Schedule,Points</li>
       <li>exit()  {exiting python environment}</li>
     </ol>
   </li>
